@@ -12,7 +12,7 @@ function Advertisement(props: AdvertisementProps) {
       <p>{props.price}</p>
       <p>Advertisement2</p>
     </div>
-  );
+  )
 }
 
 export default Advertisement;
